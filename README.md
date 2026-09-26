@@ -9,9 +9,9 @@ to control anything using an ESP32-C3 Super Mini.
 
 | Component | Description | Stack | Repo |
 |---|---|---|---|
-| 🔌 **Firmware** | Onboard control | ESP32-C3, C++ | [rover-firmware](https://github.com/willbeupdated) |
-| ⚡ **PCB** | Main control board, 4 switches, IR transmitter and receiver| KiCad | [rover-pcb]([https://github.com/YOUR_USERNAME/rover-pcb](https://github.com/dangnguyen06-ee/IR_Keyboard_PCB)) |
-| 🧊 **3D Model** | Chassis, sensor mounts, enclosure | Fusion 360, STL | [rover-3d](https://github.com/willbeupdated) |
+| 🔌 **Firmware** | Onboard control | ESP32-C3, C++ | [IR-keyboard-firmware](https://github.com/willbeupdated) |
+| ⚡ **PCB** | Main control board, 4 switches, IR transmitter and receiver| KiCad | [IR-Keyboard-pcb]([https://github.com/YOUR_USERNAME/rover-pcb](https://github.com/dangnguyen06-ee/IR_Keyboard_PCB)) |
+| 🧊 **3D Model** | Chassis | Fusion 360, STL | [IR-keyboard-3d](https://github.com/willbeupdated) |
 ---
 
 ## ✨ Features
@@ -27,9 +27,6 @@ to control anything using an ESP32-C3 Super Mini.
 | MCU | ESP32-C3 |
 | Sensors | IR transmitter & receiver |
 | Switch | MX hotswappable |
-| IMU | BNO085 |
-| Camera | Onboard, CameraX |
-| Power | 3000 mAh Li-ion |
 
 ---
 
